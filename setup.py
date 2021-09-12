@@ -7,11 +7,9 @@ setuptools.setup(
     name="hipa",
     version="0.1.0",
     author="naoki-highbridge",
-    author_email="",
     description="Home interior picture analyzer",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
